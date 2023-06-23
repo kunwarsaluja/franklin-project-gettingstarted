@@ -1,9 +1,20 @@
-# Your Project's Title...
-Your project's description...
+# Assignemnt 1 : Getting Started with Franklin
+
+## Pre-requisites
+- You have a GitHub account, and understand Git basics.
+- You have a Google account.
+- You understand the basic HTML, CSS, and JavaScript.
+- You have Node/npm installed for local development.
+
+## Add helix bot to your repo
+- Install the [Franklin Bot](https://github.com/apps/helix-bot) on your repo by visiting this link: https://github.com/apps/helix-bot/installations/new
+
+**Note** : In the Repository access settings of the Franklin bot, make sure you select Only select Repositories (not All Repositories). Then select your repo, and click Save.
+
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--{repo}--onboardingseries.hlx.page/
+- Live: https://main--{repo}--onboardingseries.hlx.live/
 
 ## Installation
 
